@@ -1,0 +1,16 @@
+C:\Youtube\Interviews\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.exe
+C:\Youtube\Interviews\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.deps.json
+C:\Youtube\Interviews\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.json
+C:\Youtube\Interviews\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.dev.json
+C:\Youtube\Interviews\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.dll
+C:\Youtube\Interviews\OperatorOverloading\bin\Debug\net5.0\ref\OperatorOverloading.dll
+C:\Youtube\Interviews\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.pdb
+C:\Youtube\Interviews\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csproj.AssemblyReference.cache
+C:\Youtube\Interviews\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Youtube\Interviews\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfoInputs.cache
+C:\Youtube\Interviews\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfo.cs
+C:\Youtube\Interviews\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Youtube\Interviews\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.dll
+C:\Youtube\Interviews\OperatorOverloading\obj\Debug\net5.0\ref\OperatorOverloading.dll
+C:\Youtube\Interviews\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.pdb
+C:\Youtube\Interviews\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.genruntimeconfig.cache
